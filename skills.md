@@ -1,3 +1,9 @@
+---
+title: Cloud Game Builder - Skills & Architecture
+description: Complete guide for building large-scale games on cloud
+tags: [game-dev, architecture, cloud, multiplayer]
+---
+
 # Cloud Game Builder - Skills & Architecture Guide
 
 ## 📚 Complete Stack Architecture
